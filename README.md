@@ -1,2 +1,4 @@
 # stock_price_predictor
-Gold price prediction using Machine Learning(ML)
+Stock market price prediction using Machine Learning(ML)
+
+
