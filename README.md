@@ -6,6 +6,8 @@ This machine learning project has been developed as a side endeavor due to the u
 
 It is important to note that this initiative is a personal exploration and not a formalized research project. The predictive models and analyses presented herein are the outcome of individual curiosity and interest in the intersection of machine learning and financial markets.
 
+# links:
+Google colab link :https://colab.research.google.com/github/HrishikeshRana/stock_price_predictor/blob/main/stock_market_price_prediction.ipynb
 ![image](https://github.com/HrishikeshRana/stock_price_predictor/assets/86291466/75923cf5-bb23-43a0-91fc-a6abbea8d843)
 
 
