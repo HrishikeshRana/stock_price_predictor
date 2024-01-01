@@ -1,6 +1,11 @@
 # stock_price_predictor
 Stock market price prediction using Machine Learning(ML)
 
+# Disclaimer:
+This machine learning project has been developed as a side endeavor due to the unexpected cancellation of my trading competition. Same as https://github.com/HrishikeshRana/goldpricepredictor.git
+
+It is important to note that this initiative is a personal exploration and not a formalized research project. The predictive models and analyses presented herein are the outcome of individual curiosity and interest in the intersection of machine learning and financial markets.
+
 ![image](https://github.com/HrishikeshRana/stock_price_predictor/assets/86291466/75923cf5-bb23-43a0-91fc-a6abbea8d843)
 
 
